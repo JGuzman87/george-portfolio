@@ -97,6 +97,17 @@ p {
   
   
 }
+
+
+.vl {
+  border-left: 6px solid #182a63;
+  height: 250%;
+  position: absolute;
+  left: 12%;
+  margin-left: -3px;
+  top: 0;
+}
+
   
 @media screen and (max-width: 992px){
   figure {
@@ -108,13 +119,4 @@ p {
   figure {
    width: 100%;
 }
-}
-
-.vl {
-  border-left: 6px solid #182a63;
-  height: 250%;
-  position: absolute;
-  left: 12%;
-  margin-left: -3px;
-  top: 0;
 }
