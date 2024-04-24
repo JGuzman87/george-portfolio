@@ -35,7 +35,8 @@ main h2{
     position:relative;
     text-align: center;
     color: rgb(236, 221, 221);
- }
+}   
+
 
 .bottom-left{
     position: absolute;
@@ -72,7 +73,7 @@ nav img {
 
 div img {
     width: 100%;
-    height: 400px;
+    height: 300px;
 
 }
 
@@ -96,16 +97,6 @@ p {
   padding-left: 250px;
   
   
-}
-
-
-.vl {
-  border-left: 6px solid #182a63;
-  height: 250%;
-  position: absolute;
-  left: 12%;
-  margin-left: -3px;
-  top: 0;
 }
 
   
