@@ -14,7 +14,7 @@ The purspose of this project is to practice creating a personal portfolio about 
 
 Website:
 
-
+https://jguzman87.github.io/george-portfolio/
 
 ## Contact Information
 
